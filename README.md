@@ -1,4 +1,6 @@
-<center>![Alt text](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png)</center>
+<center>
+  ![Alt text]https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png
+</center>
 <h1 align="center">Hi 👋, I'm BENNCAR Amine</h1>
 
 
