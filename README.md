@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello there! I'm BENNCAR Amine, an enthusiastic engineering student passionate about technology and innovation. Currently pursuing my engineering degree, I thrive on challenges that push me to think creatively and find innovative solutions. My curiosity and eagerness to learn drive me to explore various domains within the vast field of engineering.
+Hello there! I'm enthusiastic engineering student passionate about technology and innovation. Currently pursuing my engineering degree, I thrive on challenges that push me to think creatively and find innovative solutions. My curiosity and eagerness to learn drive me to explore various domains within the vast field of engineering.
 
 ## 🔧 Skills
 
