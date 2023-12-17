@@ -32,6 +32,13 @@ I enjoy working on diverse projects that allow me to apply and refine my skills.
 
 Feel free to explore my GitHub repositories for more projects and code snippets.
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 ## 📫 Get in Touch
 
 I'm always open to collaboration and discussion. If you have any exciting projects, ideas, or just want to chat about technology, feel free to reach out to me:
