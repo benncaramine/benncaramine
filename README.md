@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm BENNCAR Amine </h1>
 
 
-## About Me
+## 👨🏽‍💻 About Me
 
 Hello there! I'm enthusiastic engineering student passionate about technology and innovation. Currently pursuing my engineering degree, I thrive on challenges that push me to think creatively and find innovative solutions. My curiosity and eagerness to learn drive me to explore various domains within the vast field of engineering.
 
