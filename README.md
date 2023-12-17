@@ -6,11 +6,10 @@ Hello there! I'm BENNCAR Amine, an enthusiastic engineering student passionate a
 
 ## 🔧 Skills
 
-- **Programming Languages:** Python, Java, C++
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Tools & Technologies:** Git, Docker, VS Code
+- **Programming Languages:** Python, Java, C++, PHP, Spring boot
+- **Web Development:** HTML, CSS, JavaScript, React, Angular, Flutter
+- **Tools & Technologies:** Git, Docker, VS Code ...
 - **Problem Solving:** Data Structures, Algorithms
-- **Engineering:** Mechanical Engineering, Electrical Engineering
 
 ## 🌱 Currently Learning
 
@@ -24,9 +23,9 @@ I am always eager to expand my knowledge and stay up-to-date with the latest tec
 
 I enjoy working on diverse projects that allow me to apply and refine my skills. Some of my notable projects include:
 
-1. **Smart Home Automation System:** Developed an IoT-based system to automate and control home appliances remotely.
-2. **Portfolio Website:** Created a personal portfolio website to showcase my projects and skills.
-3. **Data Analysis Tool:** Built a Python tool for analyzing and visualizing large datasets.
+1. **Patient management application:** A robust and efficient patient management application using the Java Spring framework and a MySQL database.
+2. **Digital books application:** A digital book application using the MERN stack (MongoDB, Express, React, Nodejs), thus providing an interactive and intuitive reading experience.
+3. **Application of an e-commerce site:** I designed and developed a robust and scalable e-commerce application using Python and the Django framework.
 
 Feel free to explore my GitHub repositories for more projects and code snippets.
 
@@ -34,12 +33,12 @@ Feel free to explore my GitHub repositories for more projects and code snippets.
 
 I'm always open to collaboration and discussion. If you have any exciting projects, ideas, or just want to chat about technology, feel free to reach out to me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [BENNCAR Amine](https://www.linkedin.com/in/benncar-amine/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: benncaramine@gmail.com
+- LinkedIn: https://linkedin.com/benncaramine
+
 
 Let's connect and build something amazing together! 🚀
 
 ---
 
-*Note: Customize the information above with your specific details, including your email, LinkedIn profile, Twitter handle, and any other relevant information.*
+
